@@ -1,0 +1,33 @@
+GİZLİLİK POLİTİKASI: MKM Flight Radar
+Son Güncelleme: 19 Mart 2026
+
+Bu gizlilik politikası, Mustafa Karaosman tarafından geliştirilen MKM Flight Radar mobil uygulamasının veri toplama ve kullanım süreçlerini açıklar.
+
+1. Toplanan Bilgiler
+MKM Flight Radar uygulaması, kullanıcılarından doğrudan herhangi bir kişisel bilgi (isim, e-posta, telefon numarası vb.) toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz.
+
+2. İzinler ve Kullanım
+Uygulama, temel işlevlerini yerine getirmek için aşağıdaki izinleri kullanabilir:
+
+İnternet Erişimi: Canlı uçuş verilerini OpenSky Network API üzerinden çekmek ve haritayı görüntülemek için gereklidir.
+
+Konum Erişimi (İsteğe Bağlı): Eğer kullanıcı izin verirse, sadece harita üzerinde kullanıcının bulunduğu yeri göstermek için kullanılır. Bu konum verisi hiçbir sunucuya gönderilmez ve kaydedilmez.
+
+3. Üçüncü Taraf Hizmetler
+Uygulama, aşağıda belirtilen ve kendi gizlilik politikalarına sahip olan üçüncü taraf hizmetleri kullanmaktadır:
+
+Google Play Hizmetleri: Uygulamanın Android cihazlarda çalışması için temel altyapıyı sağlar.
+
+OpenSky Network: Canlı havacılık verilerinin kaynağıdır.
+
+OpenStreetMap / CartoDB: Harita görsellerinin sunulması için kullanılır.
+
+4. Çocukların Gizliliği
+Bu uygulama 13 yaş altı çocuklara hitap etmemektedir ve bilerek çocuklardan herhangi bir veri toplamamaktadır.
+
+5. Değişiklikler
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Değişiklikler bu sayfada yayınlandığı anda yürürlüğe girer.
+
+6. İletişim
+Bu politika hakkında sorularınız varsa, lütfen bizimle iletişime geçin:
+E-posta: mkmusti@gmail.com
