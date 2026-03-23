@@ -1,26 +1,38 @@
-# Gizlilik Politikası
+Gizlilik Politikası
+Son Güncelleme: 23.03.2026
 
-**Son Güncelleme:** 05.01.2026
+Nefes (Rahatla, Odaklan) uygulaması olarak kullanıcılarımızın gizliliğine ve veri güvenliğine büyük önem veriyoruz. Bu gizlilik politikası, Google Play politikaları uyarınca verilerinizin nasıl işlendiği hakkında şeffaflık sağlamak amacıyla hazırlanmıştır.
 
-**Nefes (Rahatla, Odaklan)** uygulaması olarak kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu gizlilik politikası, uygulamamızın kullanıcı verilerini nasıl işlediği (veya işlemediği) hakkında şeffaflık sağlamak amacıyla hazırlanmıştır.
+1. Sağlık Verileri (Health Data) ve Toplanan Bilgiler
+Uygulamamız, kullanıcıların kendi gelişimlerini takip edebilmeleri ve performanslarını gözlemleyebilmeleri amacıyla Sağlık Verilerini (Health Data) işlemektedir. Bu kapsamda:
 
-### 1. Toplanan Veriler
-Uygulamamız, kullanıcılarından herhangi bir kişisel veri (isim, e-posta adresi, telefon numarası, konum vb.) **TOPLAMAZ**, saklamaz veya üçüncü taraflarla paylaşmaz. Uygulama tamamen çevrimdışı (offline) çalışacak şekilde tasarlanmıştır (reklam yüklemeleri hariç).
+İşlenen Veriler: Nefes tutma süreleriniz, tamamlanan egzersiz döngüleri ve egzersiz istatistikleriniz (Son 10 Egzersiz geçmişi gibi).
 
-### 2. Reklamlar ve Üçüncü Taraf Hizmetleri
-Uygulamamız, gelir elde etmek amacıyla **Google AdMob** reklam hizmetini kullanmaktadır. Google AdMob, size ilgi alanınıza yönelik reklamlar sunabilmek için cihazınıza ait reklam kimliğini (Advertising ID) kullanabilir. Bu işlem Google'ın kendi gizlilik politikalarına tabidir.
+Depolama ve Paylaşım: Bu veriler tamamen çevrimdışı (offline) çalışır ve yalnızca kullanıcının kendi cihazında yerel olarak saklanır. Verileriniz hiçbir uzak sunucuya aktarılmaz, bulut sistemlerine yedeklenmez veya üçüncü taraf şahıslarla/kurumlarla paylaşılmaz.
 
-### 3. Çocukların Gizliliği
-Uygulamamız her yaştan kullanıcı için uygundur. Ancak, çocuklardan bilerek ve isteyerek herhangi bir kişisel bilgi toplamıyoruz. Eğer bir çocuğun bize kişisel bilgi verdiğini fark ederseniz, lütfen bizimle iletişime geçin; bu bilgileri derhal sistemimizden sileceğiz.
+Kişisel Kimlik Bilgileri: Uygulamamız; isim, e-posta adresi, telefon numarası veya konum gibi kişisel kimlik bilgilerini kesinlikle TOPLAMAZ.
 
-### 4. İzinler
-Uygulama, temel işlevlerini yerine getirebilmek için aşağıdaki izinleri isteyebilir:
-- **Titreşim Kontrolü:** Nefes egzersizleri sırasında geri bildirim vermek için.
-- **İnternet Erişimi:** Sadece reklamların yüklenmesi için.
+2. Reklamlar ve Üçüncü Taraf Hizmetleri
+Uygulamamız, ücretsiz hizmet sunabilmek amacıyla Google AdMob reklam servisini kullanmaktadır. Google AdMob, ilgi alanınıza yönelik reklamlar sunabilmek için cihazınıza ait anonim reklam kimliğini (Advertising ID) kullanabilir. Bu veri işleme faaliyeti Google'ın kendi gizlilik politikalarına tabidir.
 
-### 5. İletişim
-Bu gizlilik politikası hakkında herhangi bir sorunuz olması durumunda bizimle iletişime geçebilirsiniz:
-- **E-posta:** mkmusti@gmail.com
+3. Veri Silme ve Kontrolü
+Uygulama verileriniz sadece cihazınızda saklandığı için;
 
----
-Bu politika, Google Play Geliştirici Program Politikaları ile uyumlu olacak şekilde hazırlanmıştır.
+Uygulama içerisindeki "Verileri Sıfırla" seçeneğini kullanarak,
+
+Veya uygulamayı cihazınızdan kaldırarak,
+Tüm egzersiz geçmişinizi ve sağlık verilerinizi kalıcı olarak silebilirsiniz.
+
+4. Çocukların Gizliliği
+Uygulamamız her yaştan kullanıcı için uygundur. Çocuklardan bilerek ve isteyerek herhangi bir kişisel bilgi toplamıyoruz. Cihazda saklanan egzersiz verileri kimliksizdir ve çocukların gizliliğini tehlikeye atmaz.
+
+5. İzinler
+Uygulama, temel işlevlerini yerine getirebilmek için şu izinleri kullanır:
+
+Titreşim Kontrolü: Egzersiz sırasında dokunsal geri bildirim sağlamak için.
+
+İnternet Erişimi: Sadece Google AdMob üzerinden reklam yüklemeleri için.
+
+6. İletişim
+Bu gizlilik politikası hakkında sorularınız için bizimle iletişime geçebilirsiniz:
+E-posta: mkmusti@gmail.com
