@@ -1,38 +1,28 @@
-Gizlilik Politikası
-Son Güncelleme: 23.03.2026
+# Gizlilik Politikası
 
-Nefes (Rahatla, Odaklan) uygulaması olarak kullanıcılarımızın gizliliğine ve veri güvenliğine büyük önem veriyoruz. Bu gizlilik politikası, Google Play politikaları uyarınca verilerinizin nasıl işlendiği hakkında şeffaflık sağlamak amacıyla hazırlanmıştır.
+**Son Güncelleme:** 23.03.2026
 
-1. Sağlık Verileri (Health Data) ve Toplanan Bilgiler
-Uygulamamız, kullanıcıların kendi gelişimlerini takip edebilmeleri ve performanslarını gözlemleyebilmeleri amacıyla Sağlık Verilerini (Health Data) işlemektedir. Bu kapsamda:
+**Mustafa Karaosman** tarafından geliştirilen **Nefes (Rahatla, Odaklan)** uygulaması olarak kullanıcılarımızın gizliliğine ve veri güvenliğine büyük önem veriyoruz. Bu politika, Google Play Kullanıcı Verileri Politikası uyarınca Sağlık Verilerinizin nasıl işlendiğini açıklar.
 
-İşlenen Veriler: Nefes tutma süreleriniz, tamamlanan egzersiz döngüleri ve egzersiz istatistikleriniz (Son 10 Egzersiz geçmişi gibi).
+### 1. Sağlık Verileri (Health Data) Erişimi ve İşlenmesi
+Uygulamamız, temel işlevlerini yerine getirmek ve kullanıcıya gelişim raporu sunmak amacıyla aşağıdaki verileri işler:
+* **Erişilen Veriler:** Nefes tutma testi sonuçları, egzersiz süreleri ve tamamlama sıklığı.
+* **Kullanım Amacı:** Bu veriler, kullanıcının kendi performansını takip etmesi ve kişisel nefes egzersizi geçmişini görüntüleyebilmesi amacıyla kullanılır.
+* **Depolama:** Tüm Sağlık Verileri (Health Data) kullanıcının cihazında **yerel olarak (local storage)** saklanır. Veriler hiçbir uzak sunucuya gönderilmez, yedeklenmez veya üçüncü taraflarla paylaşılmaz.
 
-Depolama ve Paylaşım: Bu veriler tamamen çevrimdışı (offline) çalışır ve yalnızca kullanıcının kendi cihazında yerel olarak saklanır. Verileriniz hiçbir uzak sunucuya aktarılmaz, bulut sistemlerine yedeklenmez veya üçüncü taraf şahıslarla/kurumlarla paylaşılmaz.
+### 2. Kişisel Kimlik Bilgileri
+Uygulamamız; isim, e-posta adresi, telefon numarası veya tam konum gibi kişisel kimlik bilgilerini **kesinlikle toplamaz**, saklamaz ve paylaşmaz.
 
-Kişisel Kimlik Bilgileri: Uygulamamız; isim, e-posta adresi, telefon numarası veya konum gibi kişisel kimlik bilgilerini kesinlikle TOPLAMAZ.
+### 3. Reklamlar ve Üçüncü Taraf Servisler
+Uygulama, gelir elde etmek amacıyla Google AdMob reklam servisini kullanır. AdMob, ilgi alanına dayalı reklamlar sunmak için cihazın anonim reklam kimliğini (Advertising ID) kullanabilir. Bu işlem Google'ın kendi gizlilik politikalarına tabidir.
 
-2. Reklamlar ve Üçüncü Taraf Hizmetleri
-Uygulamamız, ücretsiz hizmet sunabilmek amacıyla Google AdMob reklam servisini kullanmaktadır. Google AdMob, ilgi alanınıza yönelik reklamlar sunabilmek için cihazınıza ait anonim reklam kimliğini (Advertising ID) kullanabilir. Bu veri işleme faaliyeti Google'ın kendi gizlilik politikalarına tabidir.
+### 4. Veri Silme Hakları
+Uygulama verileri sadece kullanıcının cihazında barındığı için, kullanıcı uygulamanın verilerini temizleyerek veya uygulamayı cihazından kaldırarak tüm verilerini (rekorlar ve egzersiz geçmişi dahil) anında ve kalıcı olarak silebilir.
 
-3. Veri Silme ve Kontrolü
-Uygulama verileriniz sadece cihazınızda saklandığı için;
+### 5. İzinler
+* **Titreşim:** Egzersiz döngüleri sırasında dokunsal geri bildirim sağlamak için kullanılır.
+* **İnternet:** Yalnızca reklam yüklemeleri için gereklidir.
 
-Uygulama içerisindeki "Verileri Sıfırla" seçeneğini kullanarak,
-
-Veya uygulamayı cihazınızdan kaldırarak,
-Tüm egzersiz geçmişinizi ve sağlık verilerinizi kalıcı olarak silebilirsiniz.
-
-4. Çocukların Gizliliği
-Uygulamamız her yaştan kullanıcı için uygundur. Çocuklardan bilerek ve isteyerek herhangi bir kişisel bilgi toplamıyoruz. Cihazda saklanan egzersiz verileri kimliksizdir ve çocukların gizliliğini tehlikeye atmaz.
-
-5. İzinler
-Uygulama, temel işlevlerini yerine getirebilmek için şu izinleri kullanır:
-
-Titreşim Kontrolü: Egzersiz sırasında dokunsal geri bildirim sağlamak için.
-
-İnternet Erişimi: Sadece Google AdMob üzerinden reklam yüklemeleri için.
-
-6. İletişim
-Bu gizlilik politikası hakkında sorularınız için bizimle iletişime geçebilirsiniz:
-E-posta: mkmusti@gmail.com
+### 6. İletişim
+Bu politika hakkında sorularınız için bizimle iletişime geçebilirsiniz:
+**E-posta:** mkmusti@gmail.com
