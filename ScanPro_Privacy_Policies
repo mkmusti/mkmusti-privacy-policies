@@ -1,0 +1,47 @@
+Gizlilik Politikası
+Son Güncelleme: 04 Haziran 2026
+
+Mustafa Karaosman ("biz", "bizim" veya "bizler") tarafından geliştirilen Scanner Pro uygulaması bir "Reklam Destekli" veya "Ücretsiz/Premium" (durumunuza göre düzenleyin) uygulamadır. Bu uygulama, kullanıcılarımıza belge tarama, OCR (metin tanıma) ve dosya yönetimi hizmeti sunmak için tasarlanmıştır.
+
+Bu sayfa, uygulamamızı kullanan kişileri, kişisel bilgilerin toplanması, kullanılması ve açıklanmasıyla ilgili politikalarımız hakkında bilgilendirmek amacıyla kullanılmaktadır.
+
+1. Bilgi Toplama ve Kullanımı
+Uygulamamızın işlevlerini yerine getirebilmesi için aşağıdaki veriler işlenir:
+
+Belge ve Görüntü Verileri: Tarama özelliğini kullanırken çektiğiniz veya galeriden seçtiğiniz belgelerin görüntüleri.
+
+OCR (Metin Tanıma) Verileri: Görüntülerden çıkarılan metin verileri.
+
+İzinler:
+
+Kamera: Belge tarama işlemi için gereklidir.
+
+Depolama/Dosya Erişimi: Taranan belgelerin kaydedilmesi, yönetilmesi ve paylaşılması için gereklidir.
+
+İnternet: (Eğer kullanıyorsanız) Bulut senkronizasyonu (Firebase/Google Drive) ve uygulama içi hata raporlama (Crashlytics) için gereklidir.
+
+Not: Bu veriler, uygulamanın sunduğu temel hizmetleri (tarama, dönüştürme) gerçekleştirmek dışında üçüncü şahıslarla paylaşılmaz veya satılmaz.
+
+2. Veri Güvenliği
+Kişisel bilgilerinizin güvenliği bizim için önemlidir, ancak internet üzerinden aktarım veya elektronik depolama yöntemlerinin %100 güvenli olmadığını hatırlatmak isteriz. Uygulamamız üzerinden işlenen belgelerin gizliliği konusunda azami özen gösterilmektedir.
+
+3. Üçüncü Taraf Hizmetleri
+Uygulamamız, hizmetlerimizi optimize etmek için şu servisleri kullanabilir:
+
+Firebase (Google): Hata raporlama ve veri depolama.
+
+Google Play Hizmetleri: Uygulama yönetimi ve güncellemeler.
+
+Bu hizmet sağlayıcıların kendi gizlilik politikaları mevcuttur; bunları incelemenizi öneririz.
+
+4. Çocukların Gizliliği
+Uygulamamız 13 yaşın altındaki çocuklara yönelik özel bir veri toplama mekanizması içermez. 13 yaşın altındaki bir çocuğun kişisel bilgilerini topladığımızı fark edersek, bu verileri sistemlerimizden hemen sileriz.
+
+5. Bu Gizlilik Politikasındaki Değişiklikler
+Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, herhangi bir değişiklik için bu sayfayı periyodik olarak incelemeniz önerilir. Değişiklikler bu sayfada yayınlandığı an yürürlüğe girer.
+
+6. Bize Ulaşın
+Bu Gizlilik Politikası hakkında herhangi bir sorunuz veya öneriniz varsa, bizimle iletişime geçmekten çekinmeyin:
+
+Geliştirici: Mustafa Karaosman
+E-posta: mkmusti@gmail.com
