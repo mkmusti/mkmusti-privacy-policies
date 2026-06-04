@@ -1,47 +1,149 @@
 Gizlilik Politikası
-Son Güncelleme: 04 Haziran 2026
 
-Mustafa Karaosman ("biz", "bizim" veya "bizler") tarafından geliştirilen Scanner Pro uygulaması bir "Reklam Destekli" veya "Ücretsiz/Premium" (durumunuza göre düzenleyin) uygulamadır. Bu uygulama, kullanıcılarımıza belge tarama, OCR (metin tanıma) ve dosya yönetimi hizmeti sunmak için tasarlanmıştır.
+Son Güncelleme Tarihi: 04 Haziran 2026
 
-Bu sayfa, uygulamamızı kullanan kişileri, kişisel bilgilerin toplanması, kullanılması ve açıklanmasıyla ilgili politikalarımız hakkında bilgilendirmek amacıyla kullanılmaktadır.
+Scanner Pro Gizlilik Politikası
 
-1. Bilgi Toplama ve Kullanımı
-Uygulamamızın işlevlerini yerine getirebilmesi için aşağıdaki veriler işlenir:
+Scanner Pro ("Uygulama"), kullanıcı gizliliğine önem verir ve kişisel verilerin korunmasını taahhüt eder. Bu Gizlilik Politikası, uygulamanın belge tarama, OCR (metin tanıma), PDF oluşturma ve görüntü işleme özelliklerini kullanırken verilerin nasıl işlendiğini açıklar.
 
-Belge ve Görüntü Verileri: Tarama özelliğini kullanırken çektiğiniz veya galeriden seçtiğiniz belgelerin görüntüleri.
+Toplanan Bilgiler
 
-OCR (Metin Tanıma) Verileri: Görüntülerden çıkarılan metin verileri.
+Scanner Pro temel olarak işlemleri kullanıcı cihazı üzerinde gerçekleştirmek üzere tasarlanmıştır.
 
-İzinler:
+Uygulama aşağıdaki verilere erişebilir:
 
-Kamera: Belge tarama işlemi için gereklidir.
+Kullanıcının çektiği belge fotoğrafları
+Kullanıcının seçtiği görseller
+Kullanıcının seçtiği PDF dosyaları
+Oluşturulan PDF belgeleri
+Uygulama ayarları ve tercihleri
 
-Depolama/Dosya Erişimi: Taranan belgelerin kaydedilmesi, yönetilmesi ve paylaşılması için gereklidir.
+Uygulama kullanıcı hesabı oluşturulmasını zorunlu kılmaz ve hesap oluşturma amacıyla kişisel veri toplamaz.
 
-İnternet: (Eğer kullanıyorsanız) Bulut senkronizasyonu (Firebase/Google Drive) ve uygulama içi hata raporlama (Crashlytics) için gereklidir.
+Kamera İzni
 
-Not: Bu veriler, uygulamanın sunduğu temel hizmetleri (tarama, dönüştürme) gerçekleştirmek dışında üçüncü şahıslarla paylaşılmaz veya satılmaz.
+Uygulama, belgelerin taranabilmesi için kamera izni talep eder.
 
-2. Veri Güvenliği
-Kişisel bilgilerinizin güvenliği bizim için önemlidir, ancak internet üzerinden aktarım veya elektronik depolama yöntemlerinin %100 güvenli olmadığını hatırlatmak isteriz. Uygulamamız üzerinden işlenen belgelerin gizliliği konusunda azami özen gösterilmektedir.
+Kamera yalnızca kullanıcı tarafından tarama işlemi başlatıldığında kullanılır.
 
-3. Üçüncü Taraf Hizmetleri
-Uygulamamız, hizmetlerimizi optimize etmek için şu servisleri kullanabilir:
+Kamera görüntüleri aşağıdaki amaçlarla işlenebilir:
 
-Firebase (Google): Hata raporlama ve veri depolama.
+Belge algılama
+Kenar tespiti
+Perspektif düzeltme
+Görüntü iyileştirme
+OCR (metin tanıma)
+PDF oluşturma
+Dosya ve Depolama Erişimi
 
-Google Play Hizmetleri: Uygulama yönetimi ve güncellemeler.
+Uygulama, kullanıcı tarafından seçilen dosya ve görsellere aşağıdaki amaçlarla erişebilir:
 
-Bu hizmet sağlayıcıların kendi gizlilik politikaları mevcuttur; bunları incelemenizi öneririz.
+Belge tarama
+PDF oluşturma
+PDF görüntüleme
+PDF dışa aktarma
+Görsel iyileştirme
+OCR işlemleri
 
-4. Çocukların Gizliliği
-Uygulamamız 13 yaşın altındaki çocuklara yönelik özel bir veri toplama mekanizması içermez. 13 yaşın altındaki bir çocuğun kişisel bilgilerini topladığımızı fark edersek, bu verileri sistemlerimizden hemen sileriz.
+Uygulama yalnızca kullanıcı tarafından seçilen içeriklere erişir.
 
-5. Bu Gizlilik Politikasındaki Değişiklikler
-Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, herhangi bir değişiklik için bu sayfayı periyodik olarak incelemeniz önerilir. Değişiklikler bu sayfada yayınlandığı an yürürlüğe girer.
+OCR (Metin Tanıma)
 
-6. Bize Ulaşın
-Bu Gizlilik Politikası hakkında herhangi bir sorunuz veya öneriniz varsa, bizimle iletişime geçmekten çekinmeyin:
+Uygulama, belgeler ve görseller üzerindeki metinleri tanımak amacıyla OCR teknolojilerinden yararlanabilir.
 
-Geliştirici: Mustafa Karaosman
-E-posta: mkmusti@gmail.com
+OCR işlemleri yalnızca kullanıcı tarafından başlatıldığında gerçekleştirilir.
+
+Yapay Zekâ Destekli Özellikler
+
+Scanner Pro, yapay zekâ destekli görüntü iyileştirme ve belge işleme özellikleri içerebilir.
+
+Bulut tabanlı yapay zekâ servislerinin kullanıldığı durumlarda, yalnızca ilgili işlemin gerçekleştirilmesi için gerekli olan içerik ilgili servis sağlayıcıya gönderilebilir.
+
+Uygulama kullanıcı belgelerini reklam amacıyla satmaz, kiralamaz veya paylaşmaz.
+
+Reklamlar
+
+Uygulama reklam destekli sürümlerde Google AdMob gibi üçüncü taraf reklam servislerini kullanabilir.
+
+Bu servisler reklam gösterimi sırasında aşağıdaki verileri işleyebilir:
+
+Reklam Kimliği (Advertising ID)
+Cihaz bilgileri
+Tanılama verileri
+
+Bu işlemler ilgili servis sağlayıcıların kendi gizlilik politikalarına tabidir.
+
+Analitik ve Hata Raporları
+
+Uygulama performansını artırmak ve hataları gidermek amacıyla anonim tanılama verileri ve hata raporları toplayabilir.
+
+Bu bilgiler şunları içerebilir:
+
+Cihaz modeli
+Android sürümü
+Uygulama sürümü
+Çökme kayıtları
+Performans verileri
+Verilerin Saklanması
+
+Taratılan belgeler, oluşturulan PDF dosyaları, OCR sonuçları ve uygulama ayarları genel olarak kullanıcı cihazında saklanır.
+
+Geliştirici, kullanıcıların taradığı belgeleri merkezi bir sunucuda depolamaz.
+
+Verilerin Paylaşılması
+
+Uygulama kişisel verileri satmaz.
+
+Veriler yalnızca aşağıdaki durumlarda paylaşılabilir:
+
+Kullanıcının talep ettiği işlevlerin sağlanması
+Yasal yükümlülüklerin yerine getirilmesi
+Uygulamanın çalışması için gerekli üçüncü taraf servislerin kullanılması
+Çocukların Gizliliği
+
+Uygulama özellikle 13 yaş altındaki çocuklara yönelik tasarlanmamıştır.
+
+Uygulama bilerek çocuklardan kişisel veri toplamaz.
+
+Veri Güvenliği
+
+Kullanıcı verilerini korumak amacıyla makul teknik ve organizasyonel güvenlik önlemleri uygulanmaktadır.
+
+Ancak internet üzerinden yapılan hiçbir veri aktarımının veya elektronik depolama yönteminin tamamen güvenli olduğu garanti edilemez.
+
+Üçüncü Taraf Hizmetler
+
+Uygulama aşağıdaki hizmetleri kullanabilir:
+
+Google Play Services
+Google AdMob
+Google ML Kit
+Android Sistem Bileşenleri
+OpenCV Kütüphaneleri
+
+Bu hizmetler kendi gizlilik politikalarına göre çalışmaktadır.
+
+Kullanıcı Hakları
+
+Yürürlükteki mevzuata bağlı olarak kullanıcılar;
+
+Verilerine erişme,
+Düzeltme talep etme,
+Silme talep etme,
+İşlemeyi sınırlandırma
+
+haklarına sahip olabilir.
+
+Gizlilik Politikasındaki Değişiklikler
+
+Bu Gizlilik Politikası zaman zaman güncellenebilir.
+
+Güncellemeler bu sayfada yayımlanacak ve güncelleme tarihi değiştirilecektir.
+
+İletişim
+
+Geliştirici: Karaosman
+
+E-posta: DESTEK_EPOSTA_ADRESINIZ
+
+Gizlilik Politikası ile ilgili sorularınız için yukarıdaki iletişim adresinden bize ulaşabilirsiniz.
