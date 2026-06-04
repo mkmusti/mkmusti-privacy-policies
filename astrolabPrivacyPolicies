@@ -1,0 +1,38 @@
+AstroLab Gizlilik Politikası
+Son Güncelleme: 4 Haziran 2026
+
+AstroLab uygulaması, kullanıcıların astrolojik haritalarını hesaplamak, gezegen saatlerini takip etmek ve günlük burç yorumlarına erişmelerini sağlamak amacıyla geliştirilmiş ücretsiz bir hizmettir. Bu gizlilik politikası, Mustafa Karaosman tarafından işletilen AstroLab mobil uygulamasının kullanıcı verilerini nasıl işlediğini, sakladığını ve koruduğunu şeffaf bir şekilde açıklamak amacıyla hazırlanmıştır.
+
+1. Toplanan Bilgiler ve Kullanım Amaçları
+Uygulamanın temel işlevlerini (Doğum Haritası / Natal Chart, Gezegen Saatleri ve Burç Analizleri) yerine getirebilmesi için aşağıdaki verilere ihtiyaç duyulmaktadır:
+
+Profil Bilgileri: Adınız veya takma adınız, doğum tarihiniz, doğum saatiniz ve doğum yeriniz (coğrafi koordinat hesaplamaları için). Bu veriler astrolojik konumların (evler, gezegen yerleşimleri) doğru hesaplanması için zorunludur.
+
+Cihaz ve Kullanım Bilgileri: Uygulama içi ayarlarınız (tema tercihi vb.) ve uygulamanın kararlı çalışabilmesi adına teknik sistem günlükleri.
+
+2. Verilerin Saklanması ve Güvenliği
+AstroLab, gizliliğinize en üst düzeyde önem verir ve verilerinizi şu şekilde korur:
+
+Yerel Veritabanı (Room DB): Girdiğiniz tüm doğum günü, saat ve konum bilgileri cihazınızın güvenli depolama alanında yer alan yerel bir veritabanında saklanır. Cihaz dışındaki harici bir sunucuya bu ham veriler yedeklenmez veya aktarılmaz.
+
+Tema ve Tercihler (DataStore): Uygulama içi görsel tercihleriniz yine cihazınızda yerel olarak saklanır.
+
+3. Üçüncü Taraf Hizmetler ve Veri Aktarımı
+Uygulama, gelişmiş astrolojik yorumlar ve yapay zeka destekli günlük analizler sunabilmek için harici servis entegrasyonu kullanmaktadır:
+
+Google Gemini API: Günlük burç yorumlarınızın ve kişiselleştirilmiş harita analizlerinizin oluşturulabilmesi için profil verileriniz (doğum bilgileriniz) güvenli bir API bağlantısı üzerinden doğrudan Google Gemini sunucularına gönderilir. Bu süreçte verileriniz Google'ın kendi yapay zeka gizlilik ve güvenlik protokolleri altında işlenir.
+
+4. Çocukların Gizliliği
+Bu hizmet, 13 yaşın altındaki çocuklara yönelik değildir. 13 yaşından küçük çocuklardan bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. 13 yaşından küçük bir çocuğun bize kişisel bilgi sağladığını fark edersek, bu bilgileri cihazdaki yerel depolama alanından derhal siliyoruz.
+
+5. Bu Gizlilik Politikasında Yapılan Değişiklikler
+Gizlilik politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, teknik veya yasal gereksinimler doğrultusunda yapılabilecek değişiklikler için bu sayfayı periyodik olarak gözden geçirmeniz önerilir. Yapılan değişiklikler, bu sayfada yayınlandığı andan itibaren geçerli olur.
+
+6. İletişim
+Bu gizlilik politikası veya uygulamanın veri işleme süreçleri hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen doğrudan geliştirici ile iletişime geçmekten çekinmeyin:
+
+Geliştirici: Mustafa Karaosman
+
+E-posta: mkmusti@gmail.com
+
+Paket Adı: com.karaosman.astrolab
