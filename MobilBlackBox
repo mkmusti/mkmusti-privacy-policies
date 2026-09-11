@@ -1,92 +1,500 @@
-# Gizlilik Politikası
+🔒 Gizlilik Politikası — Mobile Black Box
+Son Güncelleme: 11 Eylül 2026
+Yürürlük Tarihi: 11 Eylül 2026
+Sürüm: 1.1
 
-**Son Güncelleme:** 8 Eylül 2026
+📋 Özet
+Mobile Black Box, telefonunuzu bir dijital kara kutuya dönüştüren
+bir güvenlik uygulamasıdır.
 
-Mobile Black Box ("uygulama", "biz", "bize" veya "bizim") olarak, gizliliğinize saygı duyuyor ve kişisel verilerinizi korumaya kararlıyız. Bu Gizlilik Politikası, uygulamamızı kullandığınızda hangi bilgileri topladığımızı, bu bilgileri nasıl kullandığımızı ve verilerinizle ilgili seçeneklerinizi açıklamaktadır.
+🔑 Kısaca:
+✅ Verileriniz cihazınızda şifreli olarak saklanır
 
----
+✅ Konum, ses ve sensör verileri sadece sizin onayladığınız kişilere gönderilir
 
-## 1. Toplanan Veriler
+✅ Sunucularımız verilerinizi kalıcı olarak saklamaz (sadece kontak bilgileri Firebase'de)
 
-Uygulamamız aşağıdaki verileri toplayabilir ve cihazınızda saklayabilir:
+✅ İstediğiniz zaman tüm verileri silebilirsiniz
 
-- **Konum Verileri:** GPS, ağ tabanlı konum ve hız bilgileri. Bu veriler, olay tespiti ve konum tabanlı özellikler için kullanılır.
-- **Hareket Sensörü Verileri:** İvmeölçer, jiroskop ve manyetometre verileri. Kazalar, düşmeler ve ani hareketlerin tespiti için kullanılır.
-- **Sistem Verileri:** Batarya seviyesi, şarj durumu, ağ türü, sinyal gücü ve cihaz sıcaklığı.
-- **Ses Kayıtları:** (Premium özellik) Etkinlik anlarında mikrofon üzerinden ses kaydı yapılabilir. Bu kayıtlar yalnızca sizin onayınızla ve yalnızca etkinlik sırasında gerçekleştirilir.
-- **Olay Verileri:** Manuel veya otomatik olarak oluşturulan olay kayıtları (tarih, saat, konum, sensör verileri, ses dosyaları).
-- **İletişim Bilgileri:** Uzaktan erişim özelliği için yetkilendirdiğiniz kişilerin adı ve telefon numarası.
-- **Firebase Cloud Messaging (FCM) Token'ı:** Bildirim gönderebilmek için cihazınıza özel bir token oluşturulur.
+✅ 112 araması otomatik yapılmaz — sadece tuş takımı açılır
 
----
+📖 İçindekiler
+Giriş
 
-## 2. Verilerin Kullanımı
+Topladığımız Veriler
 
-Topladığımız verileri aşağıdaki amaçlarla kullanırız:
+Verilerin Kullanım Amacı
 
-- 24 saatlik döngüsel kayıt ile olay öncesi ve sonrası verileri korumak
-- Kaza, düşme, ani fren gibi olayları tespit etmek
-- Size anlık telemetri ve olay raporları sunmak
-- Yetkilendirdiğiniz kişilere güvenli uzaktan erişim sağlamak
-- Uygulama performansını ve kullanıcı deneyimini iyileştirmek
-- Yasal yükümlülüklere uymak
+Verilerin Paylaşımı
 
----
+Veri Saklama ve Silme
 
-## 3. Veri Paylaşımı
+Veri Güvenliği
 
-Verileriniz **üçüncü taraflarla paylaşılmaz** veya satılmaz. Ancak aşağıdaki durumlar istisnadır:
+Kullanıcı Hakları
 
-- **Yetkili Kişiler:** Sizin tarafınızdan yetkilendirilmiş kişilere, sizin izniniz ve risk seviyesine göre veri paylaşımı yapılabilir (ör. konum, olay verileri).
-- **Hizmet Sağlayıcılar:** Firebase (Google) ve Google Play Servisleri gibi hizmetler, yalnızca bildirim ve harita gibi temel işlevler için veri işleyebilir.
-- **Yasal Zorunluluklar:** Kanunen zorunlu kılınması halinde yetkili makamlarla paylaşılabilir.
+Üçüncü Taraf Hizmetler
 
----
+Çocukların Gizliliği
 
-## 4. Veri Güvenliği
+Uluslararası Veri Transferi
 
-Tüm verileriniz **cihazınızda** saklanır ve AES-256-GCM ile şifrelenir. Verileriniz bulut sunucularında saklanmaz. Uzaktan erişim sırasında uçtan uca şifreleme kullanılır. Verilerinize yalnızca siz ve yetkilendirdiğiniz kişiler erişebilir.
+Değişiklikler
 
----
+İletişim
 
-## 5. Kullanıcı Hakları
+1. Giriş
+1.1 Uygulama Hakkında
+Mobile Black Box ("Uygulama", "biz", "bizim"), Mustafa KARAOSMAN
+tarafından geliştirilen ve işletilen bir Android güvenlik uygulamasıdır.
 
-Verileriniz üzerinde tam kontrol sahibisiniz:
+Geliştirici: Mustafa KARAOSMAN
+E-posta: mkmusti@gmail.com
+Konum: Türkiye
+Yıl: 2026
 
-- Uygulama içinden tüm verilerinizi **görebilir, dışa aktarabilir veya silebilirsiniz**.
-- Konum, mikrofon, bildirim ve diğer izinleri **cihaz ayarlarından** istediğiniz zaman kapatabilirsiniz.
-- Uygulamayı kaldırarak tüm verilerinizi cihazınızdan **kalıcı olarak silebilirsiniz**.
-- Yetkili kişi listesini ve erişim izinlerini uygulama içinden yönetebilirsiniz.
+1.2 Kapsam
+Bu Gizlilik Politikası, Mobile Black Box uygulamasını kullandığınızda
+hangi verileri topladığımızı, nasıl kullandığımızı ve nasıl
+koruduğumuzu açıklar.
 
----
+1.3 Onay
+Uygulamayı kullanarak bu Gizlilik Politikası'nı kabul etmiş
+sayılırsınız. Kabul etmiyorsanız, lütfen uygulamayı kullanmayın.
 
-## 6. Veri Saklama Süresi
+2. Topladığımız Veriler
+2.1 Konum Verileri
+Veri Tipi	Amaç	Zorunlu mu?
+Kesin konum (GPS)	Kayıt ve olay tespiti	✅ Evet
+Yaklaşık konum (Wi-Fi/Ağ)	GPS yoksa yedek	⚠️ Opsiyonel
+Arka plan konum	Uygulama kapalıyken takip	⚠️ Opsiyonel
+Toplama Sıklığı:
 
-- **24 saatlik ring buffer:** Normal veriler otomatik olarak silinir.
-- **Kilitlenmiş olaylar:** Kullanıcı tarafından silinene kadar saklanır.
-- **Yetkili kişi bilgileri:** Kullanıcı tarafından silinene kadar saklanır.
+Hareket durumuna göre: 1 Hz (sabit) — 50 Hz (olay anı)
 
----
+Doze modunda: 1 kayıt / dakika
 
-## 7. Çocukların Gizliliği
+Saklama: Cihazınızda 24 saat (ring buffer)
 
-Uygulamamız 13 yaşın altındaki çocuklara yönelik değildir. Bilerek çocuklardan kişisel veri toplamıyoruz.
+2.2 Sensör Verileri
+Sensör	Veri	Amaç
+İvmeölçer	X, Y, Z, G-kuvvet	Düşme/kaza tespiti
+Jiroskop	X, Y, Z, magnitüd	Ani dönüş tespiti
+Yönelim (Rotation)	Pitch, Roll, Yaw	Pozisyon analizi
+Saklama: Cihazınızda, 24 saatlik buffer'da
 
----
+2.3 Ses Verileri
+Veri	Süre	Kalite
+Olay öncesi ses	10 dakika geriye dönük	16 kHz, mono (LOW)
+Olay anı sesi	30 saniye	44.1 kHz, stereo (HIGH)
+Olay sonrası ses	5 dakika ileriye dönük	22 kHz, mono (MEDIUM)
+⚠️ Önemli: Ses kaydı sadece olay anında aktiftir. Normal
+kullanımda ses kaydedilmez.
 
-## 8. Politikadaki Değişiklikler
+Saklama: Cihazınızda, şifreli olarak, siz silene kadar
 
-Bu Gizlilik Politikası zaman zaman güncellenebilir. Önemli değişiklikler uygulama içi bildirim ile duyurulacaktır.
+2.4 Sistem Verileri
+Veri	Amaç
+Pil seviyesi	Pil optimizasyonu
+Şarj durumu	Güç yönetimi
+Ağ tipi (4G/5G/Wi-Fi)	Bağlantı analizi
+Sinyal gücü	İletişim kalitesi
+Cihaz sıcaklığı	Güvenlik
+Depolama alanı	Kapasite kontrolü
+Saklama: Cihazınızda, 24 saat
 
----
+2.5 Olay Verileri
+Veri	Amaç
+Olay tipi	HIGH_G, FALL, SUDDEN_STOP, COMPOSITE
+Zaman damgası	Olay zamanı
+Konum	Olay yeri
+Hız	Olay öncesi/sonrası
+Skor	Olay şiddeti (0-100)
+Güven	Algoritma güveni (%)
+Saklama: Siz silene kadar
 
-## 9. İletişim
+2.6 İletişim Verileri
+Eşleştirme sırasında toplanan:
 
-Gizlilik Politikamız hakkında sorularınız varsa bizimle iletişime geçin:
+Veri	Zorunlu mu?
+Kişi adı	✅ Evet
+Telefon numarası	✅ Evet
+İlişki tipi	✅ Evet
+FCM token	✅ Otomatik
+Şifreli shared secret	✅ Otomatik
+Saklama: Cihazınızda + Firebase Firestore'da (kontak bilgileri)
 
-**E-posta:** [E-POSTA ADRESİNİZ]  
-**Adres:** [ADRESİNİZ]
+2.7 Kimlik Verileri
+Veri	Amaç
+Firebase Auth UID	Anonim kullanıcı kimliği
+Cihaz modeli	Uyumluluk kontrolü
+Android sürümü	Uyumluluk kontrolü
+Uygulama sürümü	Güncelleme bildirimi
+⚠️ Biz sizi kişisel olarak tanımlamayız. Firebase Auth
+anonim olarak çalışır.
 
----
+2.8 Toplamadığımız Veriler
+❌ Kesinlikle toplamıyoruz:
 
-*Bu Gizlilik Politikası, Mobile Black Box uygulamasının tüm kullanıcıları için geçerlidir.*
+Adınız, soyadınız
+
+E-postanız
+
+Rehberiniz
+
+Fotoğraflarınız
+
+Mesajlarınız (SMS hariç, sadece fallback için)
+
+Tarayıcı geçmişiniz
+
+Diğer uygulamalar
+
+Kredi kartı bilgisi
+
+Sağlık verisi (açık rıza olmadan)
+
+3. Verilerin Kullanım Amacı
+3.1 Temel Kullanım
+Veri	Kullanım Amacı
+Konum	Kayıt, olay tespiti, geofence
+Sensör	Düşme/kaza tespiti
+Ses	Olay kaydı, delil
+Sistem	Pil optimizasyonu
+Olay	Analiz, bildirim
+Kontak	Yetkili kişilerle paylaşım
+3.2 İkincil Kullanım
+📊 Anonim istatistik: Kaç olay tespit edildi (kişisel veri yok)
+
+🔧 Hata ayıklama: Crash raporları (kişisel veri yok)
+
+🚀 İyileştirme: Algoritma optimizasyonu
+
+3.3 Kullanmadığımız Alanlar
+Verileriniz asla kullanılmaz için:
+
+❌ Reklam hedefleme
+
+❌ Profil oluşturma
+
+❌ Üçüncü taraf satışı
+
+❌ Sigorta şirketlerine paylaşım
+
+❌ Pazarlama
+
+4. Verilerin Paylaşımı
+4.1 Kime Paylaşılır?
+a) Yetkili Kişiler (Kullanıcının onayıyla)
+
+Sadece eşleştirdiğiniz kişiler
+
+Sadece talep ettikleri veriler
+
+Örn: Aile bireyiniz "konum" istedi → sadece konum gönderilir
+
+b) Firebase (Google)
+
+FCM (Yönlendirme):
+
+Anlık mesajları yönlendirir
+
+Sunucuda mesaj kalıcı olarak saklanmaz (kuyrukta max 4 hafta)
+
+Veri transferi şifreli (TLS 1.3)
+
+Firestore (Kontak Saklama):
+
+Kontak adı, telefon numarası, FCM token
+
+Şifreli sharedSecret (SMS fallback için)
+
+Kullanıcı silene kadar saklanır
+
+Firebase Auth:
+
+Anonymous UID (kişisel tanımlayıcı değil)
+
+Kullanıcı uygulamayı silerse anonim olarak kalır
+
+c) Yasal Zorunluluk
+
+Mahkeme kararı
+
+Savcılık talebi
+
+Yasal yükümlülük
+
+4.2 Paylaşım Şekli
+Veri	Paylaşım Şekli
+Konum	FCM/SMS ile (şifreli)
+Sensör	FCM ile (şifreli)
+Ses	Hiç paylaşılmaz (opsiyonel)
+Olaylar	FCM/SMS ile (şifreli)
+4.3 Paylaşılmayan Veriler
+❌ Üçüncü taraf reklamcılar
+
+❌ Veri simsarları
+
+❌ Sigorta şirketleri (izin olmadan)
+
+❌ İşveren (izin olmadan)
+
+5. Veri Saklama ve Silme
+5.1 Saklama Süreleri
+Veri	Cihazda	Firebase'de
+Konum (24h buffer)	24 saat	❌ Yok
+Sensör (24h buffer)	24 saat	❌ Yok
+Ses (olay)	Silene kadar	❌ Yok
+Olay kayıtları	Silene kadar	❌ Yok
+Kontak bilgisi	Silene kadar	Silene kadar
+Audit log	30 gün	90 gün
+FCM token	Aktif olduğu sürece	Aktif olduğu sürece
+5.2 Otomatik Silme
+🕐 24 saatlik ring buffer: Eski kayıtlar otomatik silinir
+
+🕐 30 günlük audit log: Otomatik temizlenir
+
+🕐 Firebase audit log: 90 gün sonra silinir
+
+5.3 Manuel Silme
+Cihazda:
+
+Ayarlar → Depolama → Tümünü Sil
+
+Tüm kayıtlar, olaylar, ses dosyaları silinir
+
+Firebase'de:
+
+Kişiler → İlgili kontağı sil
+
+Kontak bilgileri + audit log temizlenir
+
+Uygulamayı Silme:
+
+Tüm cihaz verileri silinir
+
+Firebase'deki kontak bilgileri otomatik silinmez
+
+Manuel silmek için: mkmusti@gmail.com adresine e-posta gönderin
+
+5.4 GDPR Madde 17 — Silme Hakkı
+Kullanıcı olarak kişisel verilerinizin silinmesini talep etme
+hakkınız vardır.
+
+Talep için:
+
+E-posta: mkmusti@gmail.com
+
+Konu: "Veri Silme Talebi"
+
+Süre: 30 gün içinde yanıtlanır
+
+6. Veri Güvenliği
+6.1 Şifreleme
+Katman	Yöntem
+Cihazda (Room DB)	AES-GCM 256-bit
+Anahtar yönetimi	Android KeyStore (hardware-backed)
+SMS içeriği	AES-GCM 256-bit + PBKDF2
+FCM transfer	TLS 1.3 (Google tarafından)
+Dijital imza	ECDSA SHA-256
+Hash zinciri	SHA-256
+6.2 Veri Bütünlüğü
+✅ Hash zinciri: Her kayıt bir öncekine bağlı
+
+✅ Dijital imza: Değiştirilme tespit edilir
+
+✅ Audit log: Tüm erişimler kayıtlı
+
+6.3 Erişim Kontrolü
+🔒 Kimlik doğrulama: Firebase Auth (anonim)
+
+🔒 Yetkilendirme: Role-based (FAMILY, DOCTOR, ...)
+
+🔒 Rate limiting: API çağrıları sınırlı
+
+6.4 Güvenlik Açığı Bildirimi
+Bir güvenlik açığı bulduysanız lütfen sorumlu bir şekilde bildirin:
+
+📧 E-posta: mkmusti@gmail.com
+
+Konu: "Security Vulnerability"
+
+🙏 Bildiriminiz 72 saat içinde yanıtlanır
+
+7. Kullanıcı Hakları
+7.1 KVKK (Türkiye) Kapsamında
+6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca:
+
+Hak	Nasıl Kullanılır?
+Bilgi edinme	Bu politika
+Erişim	Ayarlar → Verilerim
+Düzeltme	Ayarlar → Profil
+Silme	Ayarlar → Tümünü Sil
+İtiraz	mkmusti@gmail.com
+Şikayet	KVKK Kurumu
+7.2 GDPR (AB) Kapsamında
+AB'deyseniz şu haklara sahipsiniz:
+
+Madde 15: Erişim hakkı
+
+Madde 16: Düzeltme hakkı
+
+Madde 17: Silme hakkı ("unutulma")
+
+Madde 18: İşlemeyi kısıtlama
+
+Madde 20: Veri taşınabilirliği
+
+Madde 21: İtiraz hakkı
+
+7.3 CCPA (California) Kapsamında
+Verilerinizin satılmadığını bilin
+
+Silme hakkı
+
+Ayrımcılık yasağı
+
+8. Üçüncü Taraf Hizmetler
+8.1 Kullanılan Servisler
+Servis	Amaç	Veri
+Firebase Cloud Messaging	FCM mesajları	Token, mesaj
+Firebase Functions	Cloud işlemler	Kontak bilgisi (geçici)
+Firebase Auth	Kimlik	Anonim UID
+Firestore	Kontak saklama	Kontak adı, telefon
+Google Maps	Harita	Konum
+Open-Meteo	Hava durumu	Konum (anonim)
+OpenWeatherMap	Hava durumu	Konum + API key
+8.2 Üçüncü Taraf Gizlilik Politikaları
+Google Privacy
+
+Firebase Privacy
+
+OpenWeatherMap Privacy
+
+9. Çocukların Gizliliği
+9.1 13 Yaş Altı
+Uygulama, 13 yaş altı çocuklar için tasarlanmamıştır. Ancak
+ebeveyn kontrolü ile kullanılabilir:
+
+Ebeveyn, çocuğun cihazına kurar
+
+Ebeveyn, "Target" rolü seçer
+
+Çocuk, uygulamayı sadece SOS için kullanır
+
+9.2 Ebeveyn Sorumluluğu
+Ebeveyn, çocuğun bilgisi dahilinde kurmalıdır
+
+COPPA (ABD) ve GDPR-K (AB) uyumlu
+
+Çocuk büyüyünce: Ayarlar → Rolü değiştir
+
+10. Uluslararası Veri Transferi
+10.1 Veri Konumu
+Cihaz verileri: Yerel (Türkiye)
+
+Firebase: Google veri merkezleri (ABD/AB)
+
+Firestore: Bölgesel (europe-west1 önerilir)
+
+10.2 Transfer Güvencesi
+GDPR Madde 46 uyumlu
+
+Standart sözleşme maddeleri (SCC)
+
+Google'ın Privacy Shield sertifikası
+
+11. Değişiklikler
+11.1 Güncelleme
+Bu politika zaman zaman güncellenebilir:
+
+Küçük değişiklikler: Sessizce yayınlanır
+
+Büyük değişiklikler: Uygulama içi bildirim
+
+Yürürlük tarihi: Belgede belirtilir
+
+11.2 Bildirim
+Önemli değişiklikler:
+
+📱 Uygulama açılışında
+
+📧 Kayıtlı e-posta varsa
+
+🔔 Bildirim
+
+11.3 Reddetme Hakkı
+Değişiklikleri kabul etmiyorsanız:
+
+Uygulamayı kullanmayı bırakın
+
+Verilerinizi silin
+
+12. İletişim
+12.1 Genel
+Geliştirici: Mustafa KARAOSMAN
+E-posta: mkmusti@gmail.com
+Konum: Türkiye
+Yıl: 2026
+
+12.2 Veri Sorumlusu (KVKK)
+Veri Sorumlusu: Mustafa KARAOSMAN
+E-posta: mkmusti@gmail.com
+
+12.3 Şikayet Mercileri
+Türkiye:
+
+KVKK: https://kvkk.gov.tr
+
+Tüketici Hakem Heyeti
+
+AB:
+
+Yerel DPA (Data Protection Authority)
+
+📎 Ekler
+Ek A: Teknik Detaylar
+Şifreleme algoritması: AES-256-GCM
+
+Anahtar türetme: PBKDF2-HMAC-SHA256 (10.000 iterasyon)
+
+Dijital imza: ECDSA (secp256r1)
+
+Hash: SHA-256
+
+Random: SecureRandom (Android)
+
+Ek B: Veri Akış Diyagramı
+text
+[Cihazınız]
+    ↓ (şifreli FCM/SMS)
+[Firebase Functions]
+    ↓ (yönlendirme)
+[Yetkili Kişi]
+
+Sunucuda mesaj SAKLANMAZ.
+Sadece kontak bilgileri Firestore'da tutulur.
+Ek C: İzin Açıklamaları
+İzin	Kullanım
+ACCESS_FINE_LOCATION	GPS konum
+ACCESS_BACKGROUND_LOCATION	Arka plan konum
+RECORD_AUDIO	Olay sesi
+READ_PHONE_STATE	Ağ/sinyal
+SEND_SMS	SMS fallback
+RECEIVE_SMS	Gelen komutlar
+READ_SMS	SMS okuma
+CAMERA	QR tarayıcı
+POST_NOTIFICATIONS	Bildirim
+FOREGROUND_SERVICE	Arka plan servis
+WAKE_LOCK	Doze mode
+RECEIVE_BOOT_COMPLETED	Otomatik başlatma
+✍️ Onay
+Bu Gizlilik Politikası'nı okuduğunuzu ve anladığınızı onaylıyorsunuz.
+
+Kullanıcı: ________________
+Tarih: ________________
+
+Belge Sürümü: 1.1
+Son Güncelleme: 11 Eylül 2026
+Sonraki Gözden Geçirme: 11 Eylül 2027
